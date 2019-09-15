@@ -4,4 +4,5 @@
 3. Run npm install
 4. Navigate to  ‘src/components/Game/Cards.js’.
 5. Look for function ‘distribute(people)’ and replace variable ‘url’ to point to the backend (card_game.php)
-6. Run npm start
+6. Run npm install
+7. Run npm start
